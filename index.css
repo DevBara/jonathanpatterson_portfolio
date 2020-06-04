@@ -19,43 +19,43 @@ body{
 
 .one{
     background-color: rgb(221, 221, 30);
-    width:250px;
-    height:250px;
+    width:310px;
+    height:310px;
 
 }
 
 .two{
     background-color: orange;
-    width:250px;
-    height:250px;
+    width:310px;
+    height:310px;
 
 }
 
 .three{
     background-color: red;
-    width:250px;
-    height:250px;
+    width:310px;
+    height:310px;
 
 }
 
 .four{
     background-color: green;
-    width:250px;
-    height:250px;
+    width:310px;
+    height:310px;
 
 }
 
 .five{
     background-color: blue;
-    width:250px;
-    height:250px;
+    width:310px;
+    height:310px;
 
 }
 
 .six{
     background-color: purple;
-    width:250px;
-    height:250px;
+    width:310px;
+    height:310px;
 
 }
 
@@ -65,4 +65,17 @@ img{
     margin-right: auto;
     width: 50%;
     padding:45px;
+}
+
+hr{
+    color: white;
+}
+
+.welcome{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    padding: 24px;
+
 }
